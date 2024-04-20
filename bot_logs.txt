@@ -1,0 +1,4 @@
+апр. 20, 2024 3:27:08 PM org.example.OneDesicion_demo_bot1_bot onUpdateReceived
+INFO: [2024-04-20 15:27:08] Received message from Master Yoda (id = 105125982): aaa
+апр. 20, 2024 3:27:08 PM org.example.OneDesicion_demo_bot1_bot onUpdateReceived
+INFO: [2024-04-20 15:27:08] Sending response to Master Yoda (id = 105125982): Choose an option
